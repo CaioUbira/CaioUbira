@@ -68,9 +68,9 @@ Aqui você encontrará projetos desenvolvidos durante minha jornada como desenvo
 
 ## 📫 Entre em contato
 
-💼 [LinkedIn](SEU_LINKEDIN)
+💼 [LinkedIn].www.linkedin.com/in/caioubirajara
 
-📧 **E-mail:** SEU_EMAIL
+📧 **E-mail:** caio_ubirajara@outlook.com
 
 🐙 [GitHub](https://github.com/SEU_USUARIO)
 
